@@ -1,60 +1,43 @@
-## Hi there 👋
+## 👋 Hi there, I'm Hok Vanthiv (Thivcoding)
 
-<!--
-**Thivcoding/Thivcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web Developer | 👨‍🏫 Web Development Instructor  
+🚀 Passionate about building real-world systems, dashboards & APIs
 
-Here are some ideas to get you started:
+---
 
-<p style="display:flex">
-  <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="40" height="40"/>
+## 🛠️ Skills & Technologies
 
-  <!-- Dart -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="40" height="40"/>
-
-  <!-- Swift -->
-  <img src="https://skillicons.dev/icons?i=swift" width="40"/>
-
-  <!-- Supabase -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" height="40"/>
-
-  <!-- Firebase -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40"/>
-
-  <!-- Android Studio -->
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/>
-
-  <!-- VS Code -->
-  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
-
-  <!-- Git -->
-  <img src="https://skillicons.dev/icons?i=git" width="40"/>
-
-  <!-- GitHub -->
-  <img src="https://skillicons.dev/icons?i=github" width="40"/>
-
-  <!-- Linux -->
-  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
-
-  <!-- Node.js -->
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
-
-  <!-- Figma -->
-  <img src="https://skillicons.dev/icons?i=figma" width="40"/>
-
-  <!-- Vue.js -->
-  <img src="https://skillicons.dev/icons?i=vue" width="40"/>
-
-  <!-- Ubuntu -->
-  <img src="https://skillicons.dev/icons?i=ubuntu" width="40"/>
-
-  <!-- C# -->
-  <img src="https://skillicons.dev/icons?i=cs" width="40"/>
-
-  <!-- Java -->
-  <img src="https://skillicons.dev/icons?i=java" width="40"/>
-
-  <!-- MySQL -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,vue" />
 </p>
--->
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb" />
+</p>
+
+### 🧠 Programming & Networking
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
+</p>
+
+---
+
+## 📌 What I Do
+- Build **E-Commerce, CMS, LMS & Management Systems**
+- Develop **REST APIs with JWT Authentication**
+- Integrate **Bakong Payment**
+- Teach **Frontend, Backend & Basic Networking**
+- Guide **Scholarship Students** with real projects
+
+📫 **Contact me:**  
+- Facebook: https://facebook.com/thiv.slot.5  
+- GitHub: https://github.com/Thivcoding  
+- Telegram: https://t.me/hokvanthiv
