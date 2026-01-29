@@ -20,7 +20,6 @@
 ### 🧠 Programming & Networking
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
 </p>
 
 ### 🧰 Tools & Platforms
